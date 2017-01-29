@@ -16,7 +16,7 @@ BUILD = build/
 SOURCE = source/
 
 # The name of the output file to generate.
-TARGET = kernel.img
+TARGET = kernel7.img
 
 # The name of the assembler listing file to generate.
 LIST = kernel.list
